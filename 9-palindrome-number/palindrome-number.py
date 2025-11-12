@@ -19,7 +19,7 @@ class Solution:
    #     while num > 0:
    #         ld=num % 10     # here we find the remainder
    #         result = (result*10) + ld  # here we change the digit 
-   #         num = num //10       # here we will decrese the digit 
+   #         num = num //10       # here we will decrese the digit  can also take reference from count digits
    #     return x==result    #checking  
 
    #ITERATIONS:
